@@ -2,7 +2,7 @@
 CloneCoding-ChromeApp with Javascript
 
 The functions it has
-1. Weahter
+1. Weather
 2. Clock
 3. Greeting with asking name
 4. To-do List
